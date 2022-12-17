@@ -1,0 +1,29 @@
+.container{
+    text-align: center;
+    margin-top: 23px;
+    background-color: #010101;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.6;
+    height: 604px;
+    width: 100vw;
+    margin-left: -8px;
+    margin-bottom: 23px;
+}
+button {
+        border-color: #ded3d3;
+        font-size: 16px;
+        background: #f3f5f5;
+        width: 41px;
+        height: 41px;
+        margin: 3px;
+        color: #070606;
+      }
+
+  input {
+    font-size: 23px;
+    height: 59px;
+    width: 189px;
+    margin: 12px;
+    color: blue;
+  }  
